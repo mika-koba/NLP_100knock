@@ -7,3 +7,5 @@
 [第3章：正規表現](https://colab.research.google.com/drive/1e3FBo9vt4Q7pHPS57BZwr8bTC0nSFn2X?usp=sharing)
 
 [第4章：形態素解析](https://colab.research.google.com/drive/1-C5WrrH6lA3ShtI2wKFiQOjWX6CBmDtM?usp=sharing)
+
+[第5章：係り受け解析](https://colab.research.google.com/drive/16lqqKdJQTHIf-SR_9jhuQ7WY-BZIX83c?usp=sharing)
