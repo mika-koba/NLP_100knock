@@ -11,3 +11,6 @@
 [第5章：係り受け解析](https://colab.research.google.com/drive/16lqqKdJQTHIf-SR_9jhuQ7WY-BZIX83c?usp=sharing)
 
 [第6章：機械学習](https://colab.research.google.com/drive/1RPhtXViqju5utnq2SPUimsVmwmlGZvfj?usp=sharing)
+
+[第7章：単語ベクトル](https://colab.research.google.com/drive/1IcNm8ZQDhFJeZ6LDAyvv8sLLRv9GO4R6?usp=sharing)
+
