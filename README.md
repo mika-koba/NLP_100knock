@@ -14,3 +14,4 @@
 
 [第7章：単語ベクトル](https://colab.research.google.com/drive/1IcNm8ZQDhFJeZ6LDAyvv8sLLRv9GO4R6?usp=sharing)
 
+[第8章：ニューラルネットワーク](https://colab.research.google.com/drive/1_MYgqjuhYY1AAYnLodZgF8o2gvv7LChv?usp=sharing)
