@@ -15,3 +15,7 @@
 [第7章：単語ベクトル](https://colab.research.google.com/drive/1IcNm8ZQDhFJeZ6LDAyvv8sLLRv9GO4R6?usp=sharing)
 
 [第8章：ニューラルネットワーク](https://colab.research.google.com/drive/1_MYgqjuhYY1AAYnLodZgF8o2gvv7LChv?usp=sharing)
+
+[第9章：RNN,CNN](https://colab.research.google.com/drive/1CktPXXDemXML1FyZF_1B8a6hcvtdjE78?usp=sharing)
+
+[第10章：機械翻訳](https://colab.research.google.com/drive/1eRQ6xRFZwx4Rs2DqE7lsXD3JuODCmt1k?usp=sharing)
